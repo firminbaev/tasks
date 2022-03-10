@@ -1,0 +1,24 @@
+.block{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: skyblue;
+}
+.buttons{
+    margin-top: 120px;
+}
+.button{
+    margin-right: 20px;
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: orangered;
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+#sec{
+    font-size: 50px;
+}
